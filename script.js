@@ -784,17 +784,17 @@ function randomFastShell() {
 
 const shellTypes = {
 	'Random': randomShell,
-	'Crackle': crackleShell,
-	'Crossette': crossetteShell,
-	'Crysanthemum': crysanthemumShell,
-	'Falling Leaves': fallingLeavesShell,
-	'Floral': floralShell,
-	'Ghost': ghostShell,
-	'Horse Tail': horsetailShell,
-	'Palm': palmShell,
-	'Ring': ringShell,
-	'Strobe': strobeShell,
-	'Willow': willowShell
+	'爆裂': crackleShell,
+	'克罗塞特': crossetteShell,
+	'水晶树': crysanthemumShell,
+	'落叶': fallingLeavesShell,
+	'花朵': floralShell,
+	'丝丝': ghostShell,
+	'马尾': horsetailShell,
+	'棕榈叶': palmShell,
+	'环状': ringShell,
+	'频闪': strobeShell,
+	'柳叶': willowShell
 };
 
 const shellNames = Object.keys(shellTypes);
